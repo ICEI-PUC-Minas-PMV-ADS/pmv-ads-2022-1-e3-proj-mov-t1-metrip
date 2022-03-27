@@ -60,8 +60,6 @@ O propósito de desenvolver esse aplicativo partiu do pressuposto de que não ex
 | **Motivações:** | **Frustrações:** | **Hobbies, História:** |
 | Mais independência nas viagens | Sofre de mudez (incapacidade total de produzir falas); Não consegue se comunicar durante as viagens | Leitura; Cinema; Academia; Viagens |
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
@@ -69,19 +67,20 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 > - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Tendo em vista as entrevistas realizadas com esse público-alvo, podemos anotar as seguintes histórias dos usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` | DÚVIDAS |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|---------|----------------------------------------|
+| Théo Cavalheiro | Fazer um tour com a namorada por vários países do mundo. | Não sabe como encontrar locais satisfatórios com bom custo-benefício. | Se distrair da rotina cansativa e repetitiva sempre nos mesmos locais. |
+| Joana Mascarenhas | Fazer viagens sozinha para locais históricos. | Não sabe como planejar uma viagem e precisa de recomendações de estadia e alimentação. | Aumentar a sua independência pessoal e conhecimento teórico. |
+| Lilian Laranjeira | Visitar construções exóticas ao redor mundo inteiro. | Não sabe onde verificar avaliações mais completas sobre os locais que deseja visitar. | Expandir o leque de possibilidades de seu trabalho com novas referências arquitetônicas. |
+| Marcos Teixeira | Fazer uma turnê pelo país. | Dúvida de onde encontrar boas recomendações na internet de hotéis e Restaurantes. | Ampliar sua rede de contatos com outros influencers e ter contato com os seguidores. |
+| Ricardo Feliciano | Viajar pelo pantanal Brasileiro. | Quer Saber mais sobre esse ponto turístico. | Cumprir o seu objetivo de viajar Todos os pontos turísticos do Brasil. |
+| João Paulo | Adquirir mais independência nas viagens | Por sofrer de Mudez total, não consegue se comunicar durantes as viagens. | Aumentar sua independência nas viagens, sem depender da informação de terceiros nas ruas. |
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -123,47 +122,59 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir:
+
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
 ### Requisitos Funcionais
 
+A tabela 02 a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
+Tabela 02: descrição dos requisitos funcionais.
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deve permitir ao usuário cadastrar-se com um login e senha. | ALTA | 
+|RF-002| O app deve conter um formulário para criação de registro de viagem.   | ALTA |
+|RF-003| O app deve permitir visualizar detalhes dos registros criados. | BAIXA |
+|RF-004| O app deve permitir editar os dados dos registros criados. | BAIXA |
+|RF-005| O app deve permitir excluir os dados dos registros criados. | BAIXA |
+|RF-006| O app deve permitir ao usuário anexar uma foto para complementar o cadastro de um registro de viagem. | BAIXA |
+|RF-007| O app deve permitir a emissão de um relatório com as informações. | MÉDIA |
+|RF-008| O app deve mostrar registros criados por outras pessoas na tela inicial. | MÉDIA |
+|RF-009| O app deve permitir ao usuário buscar registros de locais específicos. | BAIXA |
+|RF-010| O app deve conter um menu de navegação com indexação para as telas. | BAIXA |
 
 ### Requisitos não Funcionais
 
+A tabela 03 a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
+Tabela 03: descrição dos requisitos não funcionais.
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O aplicativo deverá apresentar um layout padrão para todas as telas, podendo ser criado ou utilizado um existente. | ALTA | 
+|RNF-002| O aplicativo deverá ser responsivo, permitindo a visualização em um celular de forma adequada. |  MÉDIA |
+|RNF-003| O aplicativo deverá ter uma fonte padrão para todas as escritas, com alterações apenas no tamanho. | MÉDIA |
+|RNF-004| A aplicação deve ser intuitiva, de fácil utilização e entendimento, descartando a necessidade de treinamentos. | MÉDIA |
+|RNF-005| A aplicação deve ser compatível com as últimas versões dos sistemas operacionais do Android e IOS. | MÉDIA |
+|RNF-006| A aplicação deve possuir uma interface limpa, contendo somente elementos que serão utilizados naquela tela.| BAIXA |
+|RNF-007| A aplicação deve ser disponibilizada por meio das principais lojas de aplicativo do mercado (Google Play, ITunes, etc...). | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
 Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela 04 a seguir.
 
+Tabela 04: descrição das restrições.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+|RE-001| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 22/06/2022. |
+|RE-002| O aplicativo deve se restringir às tecnologias de desenvolvimento mobile. |
+|RE-003| A equipe não pode subcontratar o desenvolvimento do trabalho. |
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
