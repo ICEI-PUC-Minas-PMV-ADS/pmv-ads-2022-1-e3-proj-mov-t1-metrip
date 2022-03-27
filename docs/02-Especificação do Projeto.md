@@ -15,7 +15,50 @@ O propósito de desenvolver esse aplicativo partiu do pressuposto de que não ex
 | **Motivações:** | **Frustrações:** | **Hobbies, História:** |
 | Desejo de conhecer o mundo | Dificuldade em guardar dinheiro | Andar de moto; Viajar; Conhecer pessoas; Assistir canais de viagens. |
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| ![foto 2](img/JGM.png) | **JOANA GALINDO MASCARENHAS** |**Localização:** Cuiabá-MT|
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
+| 65 anos | Professora de História | Instagram; Netflix; Amazon Prime; Kindle |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Auto estima para viajar sozinha; Vontade de conhecer o mundo | Depender dos outros | Filmes e séries; Ioga; Ler; Bike. |
+
+| ![foto 3](img/LCL.png) | **LILIAN CIDREIRA LARANJEIRA** |**Localização:** Americana-SP|
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
+| 25 anos | Arquiteta | Instagram, Whatsapp; Autocad; Uber; Airbnb; Booking. |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Conhecer as diferentes arquiteturas e culturas | Visitar uma cidade histórica e ver que sua cultura foi perdida | Academia; Cursos e palestras; Fotografia; Séries. |
+
+| ![foto 4](img/MT.png) | **MARCOS TEIXEIRA** |**Localização:** Recife-PE|
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
+| 61 anos | Advogado | Whatsapp; Uber; Ifood; |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Fazer viagens pelo Brasil | A perda de sua esposa que lhe acompanharia nesta aventura | Marcenaria DIY; Cursos e palestras; fotofrafia; caminhada. |
+
+| ![foto 5](img/RF.png) | **RICARDO FELICIANO** |**Localização:** Florianópolis-SC|
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
+| 35 anos | Autônomo | Instagram; Whatsapp; Facebook; Uber; Ifood; Booking |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Fazer o que mais gosta; Gosta de aventura | A perda do seu cachorro que lhe acompanhava em todas as suas viagens | Surfar; Dirigir; Fotografia; Corrida de rua. |
+
+| ![foto 6](img/JP.png) | **JOÃO PAULO** |**Localização:** Vila Velha-ES|
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
+| 38 anos | Bibliotecário | Instagram; Whatsapp; Uber; Ifood; Handtalk |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Mais independência nas viagens | Sofre de mudez (incapacidade total de produzir falas); Não consegue se comunicar durante as viagens | Leitura; Cinema; Academia; Viagens |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
