@@ -2,11 +2,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O propósito de desenvolver esse aplicativo partiu do pressuposto de que não existe um aplicativo de gestão de viagens capaz de suprir as necessidades básicas de viajantes de forma funcional e com o melhor custo-benefício em relação a outras possíveis soluções já existentes no mercado. Para detalhamento das demandas requeridas pelos usuários foram realizadas entrevistas com os verdadeiros amantes de uma estrada.
 
 ## Personas
+
+| ![foto 1](img/TGC.png) | **THÉO GRANJEIRO CAVALHEIRO** |**Localização:** Ubá-MG|
+|:---:|:---:|:---:|
+||||
+| **Idade:** | **Ocupação:** | **Plataforma e APP's utilizados:** |
+| 40 anos | Analista de Vendas | Uber; Ifood; Spotify |
+||||
+| **Motivações:** | **Frustrações:** | **Hobbies, História:** |
+| Desejo de conhecer o mundo | Dificuldade em guardar dinheiro | Andar de moto; Viajar; Conhecer pessoas; Assistir canais de viagens. |
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
