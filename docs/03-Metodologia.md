@@ -45,43 +45,56 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira: 
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+**Scrum Master** : Gustavo Costa 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+**Product Owner** : Adriana Neves da Silva Carvalho 
+
+**Equipe de Desenvolvimento** 
+
+- Adriana Neves da Silva Carvalho 
+- Carlos Roberto Teixeira 
+- Gustavo Costa
+- Rafael Henrique Teixeira 
+- Rodrigo Pereira Lacerda 
+- Ruver Clacyus Oliveira Caldeira 
+
+**Equipe de Design** 
+
+- Adriana Neves da Silva Carvalho 
+- Gustavo Costa 
+- Rafael Henrique Teixeira 
+
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para a organização e distribuição das tarefas do projeto, a equipe está utilizando o Jira estruturado com as seguintes listas: 
+
+-**Recursos**: esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. 
+
+-**Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
+
+-**To do**: esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+
+-**Doing**: quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+
+-**Test**: Testes e Checagem de Qualidade. Quando as tarefas são concluídas, são movidas para o “Done”. 
+
+-**Done**: nesta lista são colocadas as tarefas que passaram pelos testes e checagem de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
+
+-**Locked**: quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir. 
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+| Ambiente | Plataforma | Link de acesso|
+|------|---------|---------|
+| Repositório de Código Fonte | GitHub | ---- |
+| Documentação do Projeto | GitHub | DOCS |
+| Projeto de Interface e Wireframes | Adobe XD |
+| Gerenciamento do Projeto | Jira |  
+| Criação de Diagramas | LucidChart | MeTrip - Diagramas, Esquemas e Fluxogramas |
+| Editor de código |   -----    |  -----   |
+| Ferramentas de Comunicação | MS Teams, Meet, WhatsApp | ----  |
