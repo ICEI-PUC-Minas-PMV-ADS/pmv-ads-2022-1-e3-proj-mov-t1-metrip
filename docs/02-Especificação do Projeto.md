@@ -184,14 +184,7 @@ Tabela 04: descrição das restrições.
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![Diagrama de Casos de Uso](img/diagrama-casos-uso.png)
 
 # Matriz de Rastreabilidade
 
@@ -231,4 +224,12 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+|   |**Orçamento**|   |
+|---|-------------|---|
+|**Recursos**|**Quantidade**|**Valor**|
+|Recursos Humanos|06|R$ 15.270,00|
+|Hardware|06|R$ 7.500,00|
+|Rede|06|R$ 1.200,00|
+|Softwares|06|R$600,00|
+|Serviços|06|R$ 3.000,00|
+||**Total**|R$ 27.570,00|
