@@ -180,10 +180,6 @@ Tabela 04: descrição das restrições.
 |RE-002| O aplicativo deve se restringir às tecnologias de desenvolvimento mobile. |
 |RE-003| A equipe não pode subcontratar o desenvolvimento do trabalho. |
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 ## Diagrama de Casos de Uso
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
@@ -194,14 +190,21 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
+A matriz abaixo contemplar todos os elementos relevantes que fazem parte do sistema, conforme apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+||RF1|RF2|RF3|RF4|RF5|RF6|RF7|RF8|RF9|RF10|RNF1|RNF2|RNF3|RNF4|RNF5|RNF6|RNF7|UC1|UC2|UC3|UC4|UC5|UC6|UC7|TC1|TC2|TC3|TC4|TC5|TC6|TC7|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Viajantes|X|X|X|X|X|X|X|X|X|X||||||||||||||||||||||
+|RF1|||||||||||X|X|X|X||X||X|X||||||X|X|X|||||
+|RF2|||||||||||X|X|X|X||X|||||X||||||||||X|
+|RF3|||||||||||X|X|X|X||X||||||X||||||||X||
+|RF4|||||||||||X|X|X|X||X|||||||X|||||||X||
+|RF5|||||||||||X|X|X|X||X|||||||X|||||||X||
+|RF6|||||||||||X|X|X|X||X|||||X||||||||||X|
+|RF7|||||||||||X|X|X|X||X||||||||X||||||X||
+|RF8|||||||||||X|X|X|X||X|||||||||||||X|||
+|RF9|||||||||||X|X|X|X||X||||X||||||||||X||
+|RF10|||||||||||X|X|X|X||X||||||||||||X||||
 
 
 # Gerenciamento de Projeto
