@@ -2,10 +2,15 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+|**Atividade(tela)**|**Ação**|**Resultado Esperado**|
+|-------------------|--------|----------------------|
+|Cadastrar usuário|CT 1: Clicar no botão “Não tem uma conta? Cadastra-se”|CT 1: Cadastro concluído.|
+||CT 1.1: Preencher os campos informados (Nome, E-mail, senha e confirmar senha)|
+|Login|CT 2: Digitar usuário e senha.|CT 2: Login efetuado com sucesso|
+|Esqueci minha senha|CT 3: Clicar no link “Esqueci minha senha”|CT 3.1: Será enviado um e-mail com o código para ser digitado para recuperar a senha.|
+||CT 3.1: Digitar o e-mail da cona que deseja recuperar||
+||||
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
