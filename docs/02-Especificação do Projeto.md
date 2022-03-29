@@ -113,12 +113,16 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-Usar o seguinte modelo: 
+| # |Indicador | Objetivos |  Descrição |  Cálculo | Fonte dados |  Perspectiva|  
+|---|-----------|----------|-------------|---------|------------|-----------------------|
+| 1| Conversão | |Quantidade de usuários que o manteve instalado por um determinado período de tempo após o download. |  Porcentual de aplicativos instalados | Playstore | Clientes |
+| 2 | Visibilidade |    |Visibilidade do aplicativo nas lojas em que ele está disponível |  Posicionamento em relação às palavras-chave que ele se relaciona; Quantidade de usuários que visitam a página do aplicativo; Posição no ranking de sua categoria | 
+| 3| Desinstalações  | avaliar o que pode ser modificado no app, o que não está agradando ou o que está faltando |  fornece informações importantes para insights de novas estratégias de marketing do app  | Quantidade de desinstalações | Playstore |  Clientes insatisfeitos |
+| 4 |Engajamento | Medir o sucesso do aplicativo | Calculo do tempo de permanência na utilização do Metrip, quantas vezes é aberto, quantas interações com o app  
+|  5 | Download  |  Medir número de download  |  Quantidade de download feito na loja de app. Quanto mais downloads, mais clientes tiveram contato com o Metrip |  Playstore  |  |
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+ 
 
 ## Requisitos
 
