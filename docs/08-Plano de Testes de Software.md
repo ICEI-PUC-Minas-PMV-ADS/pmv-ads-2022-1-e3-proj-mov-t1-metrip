@@ -9,7 +9,10 @@
 |Login|CT 2: Digitar usuário e senha.|CT 2: Login efetuado com sucesso|
 |Esqueci minha senha|CT 3: Clicar no link “Esqueci minha senha”|CT 3.1: Será enviado um e-mail com o código para ser digitado para recuperar a senha.|
 ||CT 3.1: Digitar o e-mail da cona que deseja recuperar||
-||||
+|Menu navegação|CT 4: Ao entrar no menu navegação, o usuário vai se deparar com as opções ( “Homepage , Buscar , Meus registros , perfil” )|CT 4: Ter acesso a todas as opções  |
+|Homepage |CT 5: Ao entrar na homepage , o usuário visualizar os registros da comunidade, e ter acesso aos campos ( Perfil,  Meus registros e  Buscar )|CT 5: Ter interação com o sistema.|
+|Perfil |CT 6:  O Clicar no campo perfil. |CT 6: O usuário terá acesso ao seus dados , dados da conta e uso do aplicativo , além de poder alterar sua senha ( ao clicar será encaminhado para o campo alterar senha. CT 3.1)|
+|Meus Registros|CT 7:  Acesso ao campo Meus registros, onde encontrara os campos (Cadastros de registros de viagem , onde ficar, o que fazer , onde comer e Dicas de locais )|
 
 ## Ferramentas de Testes (Opcional)
 
