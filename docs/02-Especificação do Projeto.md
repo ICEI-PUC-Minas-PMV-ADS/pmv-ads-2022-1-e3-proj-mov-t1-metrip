@@ -238,9 +238,21 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 |   |**Orçamento**|   |
 |---|-------------|---|
 |**Recursos**|**Quantidade**|**Valor**|
-|Recursos Humanos|06|R$ 15.270,00|
+|Recursos Humanos|06|R$ 18.000,00|
 |Hardware|06|R$ 7.500,00|
-|Rede|06|R$ 1.200,00|
+|Rede|06|R$ 3.000,00|
 |Softwares|06|R$600,00|
-|Serviços|06|R$ 3.000,00|
-||**Total**|R$ 27.570,00|
+|Serviços|06|R$ 1.500,00|
+||**Total**|R$ 30.600,00|
+
+*Memória de Cálculo*
+
+- **Recursos Humanos** = 6 pessoas x R$ 50,00/Hora x 60 Horas = R$ 18.000,00 
+
+- **Hardware** = locação 6 Notebooks x R$ 250,00/Mês x 5 Meses = R$ 7.500,00 
+
+- **Rede** = 6 internet banda larga x R$ 100,00/Mês x 5 Meses = R$ 3.000,00 
+
+- **Softwares** = locação de 6 (windows, office) x R$ 20,00/Mês x 5 Meses = R$ 600,00 
+
+- **Serviços** = 6 despesas (energia, hospedagem) x R$ 50,00/Mês x 5 Meses = R$ 1.500,00 
