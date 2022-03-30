@@ -14,7 +14,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Repositório de Código Fonte| GitHub | [GIT](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t1-metrip.git) |
 | Documentação do Projeto|GitHub | [DOCS](https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/1329884_sga_pucminas_br/EduSgVStt8VAgjzI_LtI_bIBTVUsXXoQr53_s_BcGuDAfA?e=BOLMez) |
 | Projeto de Interface e Wireframes| Adobe XD | |
-| Gerenciamento do Projeto | Jira | |
+| Gerenciamento do Projeto | Notion | [NOTION](https://www.notion.so/e103fe2a25574b0d8d0338b6f989e0b7?v=925d382e2edf4a2ab0304a4306e0dbc1)|
 | Criação de Diagramas | Lucid Chart | [DIAGRAMAS](https://lucid.app/lucidchart/f3fe7c08-bbdb-4d74-91e7-a19a66c1ab33/edit?invitationId=inv_22333280-ddb5-4470-bd41-aeebd2991ad3) |
 | Editor de código | | |
 | Ferramentas de Comunicação | MsTeams, Google Meet, Whatsapp | |
@@ -94,29 +94,25 @@ A equipe está organizada da seguinte maneira:
 
 ### Processo
 
-Para a organização e distribuição das tarefas do projeto, a equipe está utilizando o Jira estruturado com as seguintes listas: 
-
-* **Recursos:** esta lista mantém um template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões. 
+Para a organização e distribuição das tarefas do projeto, a equipe está utilizando o Notion estruturado com as seguintes listas: 
 
 * **Backlog:** recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 
-* **To do:** esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+* **A fazer:** esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 
-* **Doing:** quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+* **Em execução:** quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 
-* **Test:** Testes e Checagem de Qualidade. Quando as tarefas são concluídas, são movidas para o “Done”. 
+* **Concluído:** nesta lista são colocadas as tarefas que passaram pelos testes e checagem de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
 
-* **Done:** nesta lista são colocadas as tarefas que passaram pelos testes e checagem de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
-
-* **Locked:** quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
+* **Bugs:** são tarefas para corrigir itens. 
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Editor de código: Visual Studio Code
+- Ferramentas de comunicação: Whatsapp, Teams, Meet
+- Ferramentas de desenho de tela (_wireframing_): Adobe XD
 
 O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
