@@ -219,6 +219,10 @@ Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o ger
 
 O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
+![Spreadsheet1](img/spreadsheet1.png)
+
+![Spreadsheet2](img/spreadsheet2.png)
+
 ![Gráfico de Gantt](img/Gantt.png)
 
 ## Gerenciamento de Equipe
