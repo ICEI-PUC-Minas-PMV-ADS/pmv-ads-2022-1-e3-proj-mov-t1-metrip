@@ -116,11 +116,11 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 | # |Indicador | Objetivos |  Descrição |  Cálculo | Fonte dados |  Perspectiva|  
 |---|-----------|----------|-------------|---------|------------|-----------------------|
-| 1| Conversão | |Quantidade de usuários que o manteve instalado por um determinado período de tempo após o download. |  Porcentual de aplicativos instalados | Playstore | Clientes |
-| 2 | Visibilidade |    |Visibilidade do aplicativo nas lojas em que ele está disponível |  Posicionamento em relação às palavras-chave que ele se relaciona; Quantidade de usuários que visitam a página do aplicativo; Posição no ranking de sua categoria | 
-| 3| Desinstalações  | avaliar o que pode ser modificado no app, o que não está agradando ou o que está faltando |  fornece informações importantes para insights de novas estratégias de marketing do app  | Quantidade de desinstalações | Playstore |  Clientes insatisfeitos |
-| 4 |Engajamento | Medir o sucesso do aplicativo | Calculo do tempo de permanência na utilização do Metrip, quantas vezes é aberto, quantas interações com o app  
-|  5 | Download  |  Medir número de download  |  Quantidade de download feito na loja de app. Quanto mais downloads, mais clientes tiveram contato com o Metrip |  Playstore  |  |
+| 1 | Conversão | |Quantidade de usuários que o manteve instalado por um determinado período de tempo após o download. |  Porcentual de aplicativos instalados | Playstore | Clientes |
+| 2 | Visibilidade | Verificar a disponibilidade e visibilidade nas lojas de apps  |Visibilidade do aplicativo nas lojas em que ele está disponível | Posicionamento em relação às palavras-chave que ele se relaciona; Quantidade de usuários que visitam a página do aplicativo; Posição no ranking de sua categoria | Playstore| Gestor de negócios |
+| 3|  Desinstalações  | Avaliar o que pode ser modificado no app, o que não está agradando ou o que está faltando |  fornece informações importantes para insights de novas estratégias de marketing do app  | Quantidade de desinstalações | Playstore | Clientes insatisfeitos |
+| 4 | Engajamento | Medir o sucesso do aplicativo | |Cálculo do tempo de permanência na utilização do Metrip, quantidade de vezes que é aberto, quantas interações com o app | 
+| 5 | Download  |  Medir quantidade de download  |  Quantidade de download feito na loja de app. Quanto mais downloads, mais clientes tiveram contato com o Metrip |  Playstore  |   |
 
  
 
