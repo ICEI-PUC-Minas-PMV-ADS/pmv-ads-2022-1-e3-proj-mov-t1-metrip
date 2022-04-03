@@ -52,14 +52,88 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 > - [Getting Started with Heroku](https://devcenter.heroku.com/start)
 > - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
 
-## Qualidade de Software
+## Qualidade de Software ,  Qualidade de Software Iso 9126
 
-Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
+|**Características Qualidade**|**Sub Características**|**Ação**|
+|-----------------------------|-----------------------|--------|
+|Funcionalidade|| A criação do Metrip veio para solucionar o problema de registro das nossas viagens.Para solucionar estes problemas iremos propor como solução tecnológica o desenvolvimento de um aplicativo mobile para registro dessas viagens, capaz de documentar com eficiência todos as cidades visitadas e avaliar qualitativamente os principais locais, tais como: hotéis, restaurantes, pontos turísticos, meios de transportes, atrativos, entre outros; além de ter como opção o compartilhamento dessas informações e experiências com outras pessoas.|
+|| Adequação |Adequar as funções especificadas que estão presentes no software.|
+|| Segurança |A empresa Metrip é responsável pela segurança dos dados dos seus usuários , mantendo em total sigilo.|
+|| Conformidade| A empresa Metrip segue todas as conformidades estabelecidas pelas leis do seu país.|
+| Confiabilidade||Refere-se a capacidade do software em manter seu nível de desempenho sob condições estabelecidas.|
+|| Maturidade |O software segue uma sequência de testes para manter uma boa maturidade do seu sistema.|
+|| Conformidade|Capacidade do produto de software de estar de acordo com normas, convenções ou regulamentações relacionadas à confiabilidade.|
+|Usabilidade||Refere-se ao esforço necessário ao uso e a homologação individual de tal uso por um conjunto de usuários estabelecidos|
+||Inteligibilidade|o software tem a capacidade de transmitir com clareza para o seus usuários os dados das telas solicitadas|
+||Apreensibilidade|o software tem as suas telas de fácil usabilidade e de entendimento do que está sendo proposto.|
+|Eficiência||Refere-se ao relacionamento entre o nível de desempenho do software e a quantidade de recursos utilizada , sob condições estabelecidas. |
+||Comportamento em relação ao tempo|O Software apresenta uma boa resposta em relação a troca de dados e informações.|
+||Comportamento em relação a recursos e conformidade|O software segue os recursos estabelecidos no documento H14b.|
+|Manutenibilidade||Refere-se ao esforço necessário para fazer modificações específicas no sistema|
+||Analisabilidade|Identificar o problema através da leitura do código.|
+||Testabilidade|Será feito testes no sistema logo após a manutenção e verificar se foi concluído o erro ( bug ).|
+|Portabilidade||Refere-se a capacidade do software em ser transferida de um ambiente para outro.|
+||Coexistência|O Software não deverá gerar conflito com outros software instalados no sistema.|
+||Capacidade de instalação|O software deve ser bem intuitivo e facilitar a sua instalação|
 
-No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
+## Metrícas
+
+|**Características**|**Perguntas**|**Resposta**|**Peso**|
+|-------------------|-------------|------------|--------|
+|  **Funcionalidade** |||Alto|
+|Adequação|O software atende todas as funções específicas , para o seu posto de trabalho ?|A = Não atende|
+|||B = Atende parcialmente|
+|||C = Atende plenamente|
+|||D = Possui mais funções do que necessito|
+|Segurança|A Metrip mantém todos os dados seguros ?|A = Sim|
+|||B = Não|
+|Conformidade| A empresa segue todas as conformidades exigidas pelo país ?|A = sim|
+||| B = Não|
+|||||
+|**Confiabilidade**|||Alto|
+|Maturidade|Como está sendo usar o sistema Metrip ?|A = Péssimo|
+|||B = Ruim|
+|||C = Bom|
+|||D = ótimo|
+|Conformidade|O Sistema apresenta falha ?|A = Sim , Quais ? |
+|||B = Não |
+|||||
+|**Usabilidade**|||Média|
+|Inteligibilidade| o sistema apresenta os dados de suas telas com clareza ?|A = sim |
+|||B = Não|
+|Apreensibilidade|os dados e telas apresentadas estão de fácil usabilidade ? |A = sim|
+|||B = Não ,  porque ?|
+|||||
+|**Eficiência**|||Baixa|
+|Comportamento em relação ao tempo|O sistema apresenta uma boa troca de telas e  informações ?|A = Sim |
+|||B = Não , porque ?|
+|Comportamento em relação a recursos e conformidade|O desenvolvimento do software foi conforme o programado financeiramente ?|A = sim|
+|||B = Não , porque ?|
+|||||
+|**Manutenibilidade**|||Média|
+|Analisabilidade |O código do Software está com clareza ?|A = sim|
+|||B = Não , onde ?|
+|Testabilidade|o software foi atualizado recentemente , ainda apresenta os erros registrados ? |A = Sim , quais ?|
+|||B = Não |
+|||||
+|**Portabilidade**|||Baixo|
+|Coexistência|o software apresenta conflito com outros software ?|A = sim , Quais ?|
+|||B = Não |
+|Capacidade de instalação| o software é de fácil instalação ? |A = sim |
+|||B = Não , porque ?|
+
+
+
+
+
+
+
+
+
+
+
+
 
 > **Links Úteis**:
 >
