@@ -10,24 +10,19 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
-
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+![Diagrama de Classes](img/digrama_classes.png)
 
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-![esquema relaciona](docs/img/entidade e relacionamento.jpg)
+![Modelo Entidade Relacionamento](img/modelo_entidade_relacionamento.png)
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+![Esquema Relacional](img/esquema_relacional.png)
 
 ## Modelo Físico
 
@@ -75,7 +70,7 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 ||Capacidade de instalação|O software deve ser bem intuitivo e facilitar a sua instalação|
 
 
-## Metrícas
+## Métricas
 
 |**Características**|**Perguntas**|**Resposta**|**Peso**|
 |-------------------|-------------|------------|--------|
@@ -120,21 +115,3 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 |||B = Não |
 |Capacidade de instalação| o software é de fácil instalação ? |A = sim |
 |||B = Não , porque ?|
-
-
-
-
-
-
-
-
-
-
-
-
-
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
