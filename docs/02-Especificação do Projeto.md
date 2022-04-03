@@ -122,8 +122,8 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 | 1 | Satisfação do cleinte | Verificar a satisfação do app |Quantidade de usuários que manteve o app instalado por um determinado período de tempo após o download. |  Porcentual de aplicativos instalados por determinado periodo| Playstore | Clientes |
 | 2 | Visibilidade | Verificar a disponibilidade e visibilidade nas lojas de apps  |  Por meio do ranking verificar a disponibilidade do aplicativo nas lojas em que ele está disponível | Posicionamento em relação às palavras-chave que ele se relaciona; Quantidade de usuários que visitam a página do aplicativo; Posição no ranking de sua categoria | Playstore| Gestor de negócios |
 | 3 |  Desinstalações  | Avaliar o que pode ser modificado no app, o que não está agradando ou o que está faltando |  Fornece informações importantes para insights de novas estratégias de marketing do app  | Quantidade de desinstalações  por um determinado periodo| Playstore | Clientes insatisfeitos |
-| 4 | Engajamento | Medir o sucesso do aplicativo | Fatores que podem influienciar o engajamento |Tempo de permanência na utilização do Metrip, quantidade de vezes que é aberto, quantas interações com o app |  software |  |
-| 5 | nº de download  |  Medir quantidade de download  |  Quantidade de download feito na loja de app. | Quanto mais downloads, mais clientes tiveram contato com o Metrip |  Playstore  |   |
+| 4 | Engajamento | Medir o sucesso do aplicativo | Fatores que podem influienciar o engajamento |Tempo de permanência na utilização do Metrip, quantidade de vezes que é aberto, quantas interações com o app |  software | Crescimento |
+| 5 | nº de download  |  Medir quantidade de download  |  Quantidade de download feito na loja de app. | Quanto mais downloads, mais clientes tiveram contato com o Metrip |  Playstore  | Crescimento e Divulgação   |
 
  
 
