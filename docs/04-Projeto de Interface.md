@@ -5,8 +5,6 @@
 
 A elaboração da interface do sistema foi cuidadosamente desenvolvida para proporcionar maior conforto ao usuário e para isso estamos estabelecendo foco em acessibilidade, usabilidade e agilidade. Além disso, todas as telas são projetadas para funcionamento em dispositivos mobile.
 
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
 ## Diagrama de Fluxo
 
 Conforme pode ser visto, a *Figura X* mostra o diagrama de fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que será desenvolvido. 
