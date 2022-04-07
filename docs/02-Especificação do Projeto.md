@@ -94,17 +94,15 @@ Tendo em vista as entrevistas realizadas com esse público-alvo, podemos anotar 
 ### Análise da Situação Atual
 
 Cada vez as pessoas buscam conveniência, facilidade,  qualidade e valor nos aplicativos. Em um cenário de constantes viagens, o controle das informações torna-se cada vez mais importante para termos um histórico dos locais visitados e avaliar. Um aplicativo mobile para gestão destas informações é fundamental para o viajante registrar, avaliar, acessar e compartilhar suas experiências de viagem. Este projeto oferecerá uma grande oportunidade para esse público criar um diário de suas viagens de forma rápida, simples e eficaz. 
-Atualemnte o mercado apresenta soluções separadas por exemplo, aplicativos somente de hospedagens ou aplicativos de restaurantes, não há aplicativos com todas as informações disponveis em um unico aplicativo.
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualemente o mercado apresenta soluções separadas por exemplo, aplicativos voltados para hospedagens, para restaurantes> Porém não há aplicativos com todas as segmntos em um único aplicativo.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+O Metrip ou qualquer outro aplicativo pela necessidade de estar pronto em um curto prazo (menos de 4 meses), aumenta a possibilidade de falhas no codigo e até mesmo, entrega incompleta do sistema. Somado a isso, a equipe pouco exoeriente pode influenciar nas entregas propostas.
 
 ### Processo 1 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Aprativo que esente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
