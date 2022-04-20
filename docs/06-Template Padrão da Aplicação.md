@@ -53,7 +53,7 @@ A landing page contém a logo do projeto ao iniciar a aplicação e caso o usuá
  ### Fluxo de Telas - Cadastro de Usuário
  O fluxo de *Cadastro de Usuário* ilustrado na *Figura X* permite ao usuário se cadastrar na aplicação caso este ainda não possua uma conta, seguindo um formulário solicitando informações obrigatórias de acordo com o tipo de perfil a ser criado.
  <p align="center">
-  <img src="/docs/img/DI_CadastroDeUsuario.png">
+  <img src="/docs/img/DI_CadastroDeUsuário.png">
  </P>
  Figura X –  Fluxo de Cadastro de Usuário.
  
