@@ -6,24 +6,23 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
+## Telas - Menus de Navegação - RF-010
 
+**Responsável:** *Carlos Roberto Teixeira
 
+**Comentários:** Ao fazer login na aplicação, a barra de navegação inferior é exibida, e esta permite ao usuário navegar entre as quatro telas principais da aplicação, conforme descrito no requisito funcional **RF-010**. As telas 'Comunidade', 'Buscar', 'Meus Registros' e 'Perfil' podem ser conferidas nas Figuras abaixo, apresentadas abaixo. Durante o desenvolvimento da funcionalidade "Menus de Navegação", foram criados 3 componentes (Body, Container e Header), utilizados em comum nas páginas desenvolvidas para os menus de navegação. Além dos componentes, foram criadas 5 páginas (Buscar, Comunidade, Meus Registros, Perfil e Home), sendo as 4 primeiras para cada um dos botões do menu de navegação e a página "Home" utilizada para fazer a rota entre essas 4 páginas ao clicar nos botões da barra inferior. Recurso de rotas e **BottonNavegation** foram utilizados para essa navegação entre telas. Funcionalidade desenvolvida com sucesso, tanto em ambiente web quanto em android e ios, onde foram testados cada um dos botões do menu. O conteúdo interno de cada uma dessas 4 páginas será matéria de outros requisitos funcionais. Foram inseridas informações dentro do corpo das páginas apenas a título ilustrativo e para demonstrar o aprendizado de alguns recursos aprendidos durante o microfundamento do Prof. Cléber. Durante os trabalhos também foram utilizados outros recursos do React-Native e React-Native-Paper, a saber: Text, StyleSheet, View, FlatList, SafeAreaView, StatusBar, TouchableOpacity, Appbar,  TextInput, List, BottonNavigation, Avatar, Button, Card, Title, Paragraph). Nesta funcionalidade não houve utilização do sqllite e sim a inserção de dados locais no interior do código apenas para verificar o funcionamento da FlatList. No estudo do microfundamento do Prof. Cléber foi realizado todo o projeto da Calculadora Flex, inclusive com a utilização do sqllite, onde pude aprender como criar, buscar, editar e excluir registros do banco, entre outros aprendizados importantes para o desenvolvimento desse requisito e de outros.
 
+**Screnshots:**
 
-Telas
+![image](https://user-images.githubusercontent.com/81597848/167258691-930d8213-723c-4923-a412-9e0b4fb3c302.png)
 
-Adriana - tela busca
-Carlos
-Gustavo
-Rafael
-Rodrigo
+![image](https://user-images.githubusercontent.com/81597848/167258716-f31662a5-52fe-42bb-979c-e986635105ab.png)
 
+![image](https://user-images.githubusercontent.com/81597848/167258737-525c981f-1777-469d-b460-5797ecb6b4b2.png)
 
+![image](https://user-images.githubusercontent.com/81597848/167258759-6048982b-4cbf-4598-ac3e-fd3b3a677d6c.png)
 
-
-
-
-
+**Link do Vídeo - RF-010:** https://youtu.be/w79STp4vtCo
 
 > **Links Úteis**:
 >
