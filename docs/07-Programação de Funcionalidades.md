@@ -24,6 +24,18 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 **Link do Vídeo - RF-010:** https://youtu.be/w79STp4vtCo
 
+
+
+## Card Registro de Viagens
+
+**Responsável:** *Rafael Henrique Teixeira
+
+![Registro de Viagens](https://user-images.githubusercontent.com/81194817/167262850-08ac8e89-e141-43e6-8928-8e722314385b.jpg)
+
+**Comentários:** 
+
+**Link do Vídeo
+
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
