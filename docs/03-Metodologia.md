@@ -82,7 +82,6 @@ A equipe está organizada da seguinte maneira:
 
   * Rodrigo Pereira Lacerda 
 
-  * Ruver Clacyus Oliveira Caldeira 
 
 * **Equipe de Design:** 
 
