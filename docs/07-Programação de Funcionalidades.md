@@ -27,7 +27,8 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 
 ## Tela de busca
-### Desenvovlvida por Adriana Neves da Silva Carvalho
+
+### Desenvolvida por Adriana Neves da Silva Carvalho
 
 Nesta tela , o usuario poderá buscar por meio de um campo especifico hospedagens, restaurantes, pontos turisticos e assim, inclui-los no registro de viagem.
 
