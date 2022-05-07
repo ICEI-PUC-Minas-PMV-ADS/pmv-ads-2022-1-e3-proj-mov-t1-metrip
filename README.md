@@ -15,7 +15,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Gustavo Figueiredo Costa
 * Rafael Henrique Teixeira
 * Rodrigo Pereira Lacerda
-* Ruver Clacyus Oliveira Caldeira
 
 ## Orientador
 
