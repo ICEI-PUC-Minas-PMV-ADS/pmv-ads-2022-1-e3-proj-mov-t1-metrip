@@ -61,9 +61,10 @@ https://user-images.githubusercontent.com/70529816/167314216-fb2649a4-02b7-4d23-
 
 **Comentários:** 
 
+Desenvolver um card de Registro de Viagens
 
+**Link do Vídeo ** [Uploading pmv-ads-2022-1-e3-proj-mov-t1-metrip_07-Programação de Funcionalidades.md at main · ICEI-PUC-Minas-PMV-ADS_pmv-ads-2022-1-e3-proj-mov-t1-metrip - Google Chrome 2022-05-08 08-38-58.zip…]()
 
-**Link do Vídeo
 
 )
 
