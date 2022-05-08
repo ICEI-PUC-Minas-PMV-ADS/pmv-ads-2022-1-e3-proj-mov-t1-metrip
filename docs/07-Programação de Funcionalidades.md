@@ -8,7 +8,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 ## Telas - Menus de Navegação - RF-010
 
-**Responsável:** *Carlos Roberto Teixeira
+### **Responsável:** Carlos Roberto Teixeira
 
 **Comentários:** Ao fazer login na aplicação, a barra de navegação inferior é exibida, e esta permite ao usuário navegar entre as quatro telas principais da aplicação, conforme descrito no requisito funcional **RF-010**. As telas 'Comunidade', 'Buscar', 'Meus Registros' e 'Perfil' podem ser conferidas nas Figuras abaixo, apresentadas abaixo. Durante o desenvolvimento da funcionalidade "Menus de Navegação", foram criados 3 componentes (Body, Container e Header), utilizados em comum nas páginas desenvolvidas para os menus de navegação. Além dos componentes, foram criadas 5 páginas (Buscar, Comunidade, Meus Registros, Perfil e Home), sendo as 4 primeiras para cada um dos botões do menu de navegação e a página "Home" utilizada para fazer a rota entre essas 4 páginas ao clicar nos botões da barra inferior. Recurso de rotas e **BottonNavegation** foram utilizados para essa navegação entre telas. Funcionalidade desenvolvida com sucesso, tanto em ambiente web quanto em android e ios, onde foram testados cada um dos botões do menu. O conteúdo interno de cada uma dessas 4 páginas será matéria de outros requisitos funcionais. Foram inseridas informações dentro do corpo das páginas apenas a título ilustrativo e para demonstrar o aprendizado de alguns recursos aprendidos durante o microfundamento do Prof. Cléber. Durante os trabalhos também foram utilizados outros recursos do React-Native e React-Native-Paper, a saber: Text, StyleSheet, View, FlatList, SafeAreaView, StatusBar, TouchableOpacity, Appbar,  TextInput, List, BottonNavigation, Avatar, Button, Card, Title, Paragraph). Nesta funcionalidade não houve utilização do sqllite e sim a inserção de dados locais no interior do código apenas para verificar o funcionamento da FlatList. No estudo do microfundamento do Prof. Cléber foi realizado todo o projeto da Calculadora Flex, inclusive com a utilização do sqllite, onde pude aprender como criar, buscar, editar e excluir registros do banco, entre outros aprendizados importantes para o desenvolvimento desse requisito e de outros.
 
@@ -41,6 +41,17 @@ Nesta tela , o usuario poderá buscar por meio de um campo especifico hospedagen
  
  
  Link da apresentação:https://youtu.be/Lv0KjauL-NA
+ 
+ 
+## Registro de Viagem - Visualização
+### Desenvolvida por Gustavo Costa
+
+Essa tela mostra a visualização completa de um registro de viagem criado por um usuário da aplicação, atendendo ao Requisito Funcional 03.
+** Impedimento: Tela não abre no Emulador de Android, o app abre e fecha sozinho.
+
+https://user-images.githubusercontent.com/70529816/167314216-fb2649a4-02b7-4d23-8ffc-c37ebe707d45.mp4
+
+
 
 ## Card Registro de Viagens
 
