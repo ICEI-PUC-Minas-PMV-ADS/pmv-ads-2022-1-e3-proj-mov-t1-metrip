@@ -76,3 +76,20 @@ Desenvolver um card de Registro de Viagens
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+
+## Telas Cadastro de usuario
+
+## Responsavel : Rodrigo Pereira Lacerda 
+
+Comentario : Primeiramente o usuario irá criar uma conta no Metrip no campo: "CADASTRE-SE".</BR>
+1 : Ira inserir o "NOME" e "EMAIL" e clicar em continuar.</BR>
+2 : logo enseguida ele ira criar "SENHA" e "CONFIRMAR SENHA". </BR>
+3 : Assim ele tera o login criado. ( Tela 3 ) </BR>
+
+![tela 1](https://user-images.githubusercontent.com/81272703/168179539-dec29b1f-9043-4c13-a3ad-dcba790441d2.png)
+![tela 2](https://user-images.githubusercontent.com/81272703/168179543-21a5808c-e6c0-45c0-a788-76ab2360634b.png)
+![tela 3](https://user-images.githubusercontent.com/81272703/168179550-7173c4e8-000e-48a2-bee5-4e9a3d5b3428.png)
+
+## Link Video: https://www.youtube.com/watch?v=1wLvmej86f4
+
