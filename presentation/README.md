@@ -4,7 +4,7 @@ Faça uma apresentação de um resumo de todos o processo de desenvolvimento e n
 
 
 ## Apresentação do projeto Metrip desenvolvido na IDE Expo por Rorigo Pereira Lacerda
- Link da apresentação etapa 3: https://www.youtube.com/watch?v=1wLvmej86f4
+ Link da apresentação etapa 3: https://www.youtube.com/watch?v=1wLvmej86f4 < br/>
  Link da apresentação etapa 4 :https://www.youtube.com/watch?v=se_x-td6LMU
 
 
