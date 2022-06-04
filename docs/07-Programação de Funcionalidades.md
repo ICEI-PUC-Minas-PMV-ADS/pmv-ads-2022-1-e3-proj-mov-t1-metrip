@@ -66,18 +66,6 @@ Desenvolver um card de Registro de Viagens
 **Link do Vídeo ** [Uploading pmv-ads-2022-1-e3-proj-mov-t1-metrip_07-Programação de Funcionalidades.md at main · ICEI-PUC-Minas-PMV-ADS_pmv-ads-2022-1-e3-proj-mov-t1-metrip - Google Chrome 2022-05-08 08-38-58.zip…]()
 
 
-)
-
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
-
 ## Telas Cadastro de usuario
 
 ## Responsavel : Rodrigo Pereira Lacerda 
@@ -93,7 +81,14 @@ Comentario : Primeiramente o usuario irá criar uma conta no Metrip no campo: "C
 
 ## Link Video: https://www.youtube.com/watch?v=1wLvmej86f4
 
-## Telas Cadastro de usuario Etapa 4
+
+
+# Etapa 4
+
+
+## Telas Cadastro de usuario
+
+## Responsavel : Rodrigo Pereira Lacerda
 
 ## Link Video https://www.youtube.com/watch?v=se_x-td6LMU
 
@@ -110,6 +105,25 @@ Comentario : Primeiramente o usuario irá criar uma conta no Metrip no campo: "C
 
 ## Solução
 1 : Baixar o expo localmente atras de comando no CMD , juntamente tive que baixar os seguintes aplicativos  **Node .JS** ,  **Android Estudio** no caso o Android estudio ira simular o celular. ![image](https://user-images.githubusercontent.com/81272703/172019814-92a44de8-e3a9-4389-a0ea-00353c7e76f6.png)
+
+
+## Tela de busca
+
+### Desenvolvida por Adriana Neves da Silva Carvalho
+
+Nesta tela , a busca feita pelo usuário será armazenada localmente, reduzindo o tempo na digitação e melhorando a experiência do usuário
+
+**Comentários:** Ao incluir o código do SQL e o CRUD na tela de busca, houve sucesivos erros no decorrer da decodificação, ao finalizar o código, a mensagem final de erro encontrada diz: "Nothing was returned from render. This usually means a return statement is missing. Or, to render nothing, return null" conforme demonstrado também na figura abaixo (figura 01).
+![image](https://user-images.githubusercontent.com/81448442/172025540-f3231b36-2788-4868-a6e2-444e3d6f23b9.png)
+ 
+ 
+  Link da apresentação:
+
+https://youtu.be/S6ZEKNXOggI
+
+https://youtu.be/YomfnEujVdo
+
+
 
 
 
