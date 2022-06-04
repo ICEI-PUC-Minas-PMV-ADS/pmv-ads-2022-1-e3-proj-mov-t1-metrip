@@ -93,3 +93,23 @@ Comentario : Primeiramente o usuario irá criar uma conta no Metrip no campo: "C
 
 ## Link Video: https://www.youtube.com/watch?v=1wLvmej86f4
 
+## Telas Cadastro de usuario Etapa 4
+
+## Link Video https://www.youtube.com/watch?v=se_x-td6LMU
+
+Comentario : Primeiramente o usuario irá criar uma conta no Metrip no campo: "CADASTRE-SE".</BR>
+
+1 : Ira inserir o "NOME" e "EMAIL" e clicar em continuar.</BR>
+2 : logo enseguida ele ira criar "SENHA" e "CONFIRMAR SENHA". </BR>
+3 : Assim ele tera o login criado. ( Tela 3 ) </BR>
+
+## Erro que esta impedindo de prosseguir.
+
+1 : Quando entrava pelo expo na web da o seguinte erro ![image](https://user-images.githubusercontent.com/81272703/172019762-6eba56f7-114b-434d-b97d-608e05ff2861.png)
+
+
+## Solução
+1 : Baixar o expo localmente atras de comando no CMD , juntamente tive que baixar os seguintes aplicativos  **Node .JS** ,  **Android Estudio** no caso o Android estudio ira simular o celular. ![image](https://user-images.githubusercontent.com/81272703/172019814-92a44de8-e3a9-4389-a0ea-00353c7e76f6.png)
+
+
+
