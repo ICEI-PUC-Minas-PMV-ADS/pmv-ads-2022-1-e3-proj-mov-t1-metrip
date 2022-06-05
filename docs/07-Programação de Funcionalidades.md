@@ -138,6 +138,22 @@ https://youtu.be/S6ZEKNXOggI
 https://youtu.be/YomfnEujVdo
 
 
+## Card Registro de Viagens
+
+**Responsável:** *Rafael Henrique Teixeira
+
+![Registro de Viagens](https://user-images.githubusercontent.com/81194817/167262850-08ac8e89-e141-43e6-8928-8e722314385b.jpg)
+
+**Comentários:** 
+
+Desenvolver um card de Registro de Viagens
 
 
+![Captura de Tela (1)](https://user-images.githubusercontent.com/81194817/172069513-004b886f-8bbb-4a94-acda-75ab9cdbd50b.png)
+
+![Captura de Tela (2)](https://user-images.githubusercontent.com/81194817/172069573-c5796791-997e-479e-bd41-3835be725cd6.png)
+
+
+**Link do Vídeo **
+https://user-images.githubusercontent.com/81194817/172069368-e1eee3f0-9608-47d3-805d-347cfb7e0145.mp4
 
