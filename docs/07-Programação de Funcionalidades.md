@@ -171,3 +171,17 @@ Desenvolver um card de Registro de Viagens
 **Link do Vídeo **
 https://user-images.githubusercontent.com/81194817/172069368-e1eee3f0-9608-47d3-805d-347cfb7e0145.mp4
 
+
+
+## Tela Meus Registros - Visualização
+### Desenvolvida por Gustavo Costa
+
+Essa tela mostra a visualização resumida dos registros de viagem criado por um usuário da aplicação, atendendo ao Requisito Funcional 03. Além disso, foram configuradas as rotas para abrir o registro de forma detalhada ao clicar nos cards.
+** Impedimentos Tela não abre no Emulador de Android, o app abre e fecha sozinho e na interpretação da Web não é possível adicionar as referências do SQLite
+
+
+https://user-images.githubusercontent.com/70529816/172072658-cc956c3a-a725-45ea-84be-2d707e17a3cf.mp4
+
+
+
+
