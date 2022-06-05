@@ -10,7 +10,11 @@ Faça uma apresentação de um resumo de todos o processo de desenvolvimento e n
 
 
 ## Apresentação do projeto Metrip desenvolvido na IDE Expo por Carlos Roberto Teixeira
- Link da apresentação: https://youtu.be/w79STp4vtCo
+ Link da apresentação etapa 3: https://youtu.be/w79STp4vtCo
+ 
+ Link da apresentação etapa 4: https://youtu.be/BzhYuPdQe3U
+ 
+ Link da apresentação etapa 5: Em breve!
 
 ## Apresentação do projeto Metrip desenvolvido na IDE Expo por Adriana Neves da Silva Carvalho
  Link da apresentação:https://youtu.be/Lv0KjauL-NA
