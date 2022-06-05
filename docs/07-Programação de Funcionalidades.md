@@ -12,7 +12,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 **Comentários:** Ao fazer login na aplicação, a barra de navegação inferior é exibida, e esta permite ao usuário navegar entre as quatro telas principais da aplicação, conforme descrito no requisito funcional **RF-010**. As telas 'Comunidade', 'Buscar', 'Meus Registros' e 'Perfil' podem ser conferidas nas Figuras abaixo, apresentadas abaixo. Durante o desenvolvimento da funcionalidade "Menus de Navegação", foram criados 3 componentes (Body, Container e Header), utilizados em comum nas páginas desenvolvidas para os menus de navegação. Além dos componentes, foram criadas 5 páginas (Buscar, Comunidade, Meus Registros, Perfil e Home), sendo as 4 primeiras para cada um dos botões do menu de navegação e a página "Home" utilizada para fazer a rota entre essas 4 páginas ao clicar nos botões da barra inferior. Recurso de rotas e **BottonNavegation** foram utilizados para essa navegação entre telas. Funcionalidade desenvolvida com sucesso, tanto em ambiente web quanto em android e ios, onde foram testados cada um dos botões do menu. O conteúdo interno de cada uma dessas 4 páginas será matéria de outros requisitos funcionais. Foram inseridas informações dentro do corpo das páginas apenas a título ilustrativo e para demonstrar o aprendizado de alguns recursos aprendidos durante o microfundamento do Prof. Cléber. Durante os trabalhos também foram utilizados outros recursos do React-Native e React-Native-Paper, a saber: Text, StyleSheet, View, FlatList, SafeAreaView, StatusBar, TouchableOpacity, Appbar,  TextInput, List, BottonNavigation, Avatar, Button, Card, Title, Paragraph). Nesta funcionalidade não houve utilização do sqllite e sim a inserção de dados locais no interior do código apenas para verificar o funcionamento da FlatList. No estudo do microfundamento do Prof. Cléber foi realizado todo o projeto da Calculadora Flex, inclusive com a utilização do sqllite, onde pude aprender como criar, buscar, editar e excluir registros do banco, entre outros aprendizados importantes para o desenvolvimento desse requisito e de outros.
 
-**Screnshots:**
+**Screnshots:** Etapa 3
 
 ![image](https://user-images.githubusercontent.com/81597848/167258691-930d8213-723c-4923-a412-9e0b4fb3c302.png)
 
@@ -22,9 +22,23 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 ![image](https://user-images.githubusercontent.com/81597848/167258759-6048982b-4cbf-4598-ac3e-fd3b3a677d6c.png)
 
-**Link do Vídeo - RF-010:** https://youtu.be/w79STp4vtCo
+**Link do Vídeo etapa 3 - RF-010:** https://youtu.be/w79STp4vtCo
 
+ **Comentários:** Dando continuidade à funcionalidade dos menus de navegação, foi criado tela de login e registro dos usuários com autenticação fake json. Criado tela para registro das viagens, onde ao clicar no botão flutuante é aberta uma tela sobre tela para preenchimento dos dados e botão para salvar o registro em banco de dados local. Para os registros já existentes, ao clicar em cima dos mesmos é aberta tela sobre tela com botões para edição ou exclusão. O app Expo apresentou problema ao abrir o banco de dados sql no windows, o que não consegui resolver até o momento.
+ 
+ **Screnshots:** Etapa 4
+ 
+![Captura de tela 2022-06-05 18 49 01](https://user-images.githubusercontent.com/81597848/172072019-253c05c6-2a2c-4c98-b747-60ab2c1b7cbb.png)
 
+![Captura de tela 2022-06-05 18 50 05](https://user-images.githubusercontent.com/81597848/172072038-ca59c93b-76c2-4b01-ace7-8f5c8028168d.png)
+
+![Captura de tela 2022-06-05 18 50 47](https://user-images.githubusercontent.com/81597848/172072062-e6072f51-6555-4c93-ab6a-e657d26c0d57.png)
+
+![Captura de tela 2022-06-05 18 51 39](https://user-images.githubusercontent.com/81597848/172072087-0426bdf2-859f-4aca-a9ad-8cc24bd0a576.png)
+
+![Captura de tela 2022-06-05 18 52 05](https://user-images.githubusercontent.com/81597848/172072102-cd4f22c2-a1dd-428d-b637-e6ff99f13788.png)
+
+**Link do Vídeo etapa 4 - RF-010:** https://youtu.be/BzhYuPdQe3U
 
 ## Tela de busca
 
