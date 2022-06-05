@@ -113,7 +113,20 @@ Comentario : Primeiramente o usuario irá criar uma conta no Metrip no campo: "C
 
 Nesta tela, o histórico de busca feita pelo usuário será armazenada localmente, reduzindo assim, o tempo de busca e melhorando a experiência do usuário.
 
-**Comentários:** Ao incluir o código do SQL e o CRUD na tela de busca, houve sucessivos erros no decorrer da decodificação, ao finalizar o código, a mensagem final de erro encontrada diz: "Nothing was returned from render. This usually means a return statement is missing. Or, to render nothing, return null" conforme demonstrado também na figura abaixo (figura 01).
+**Comentários:** Ao incluir o código do SQL e o CRUD na tela de busca, houve sucessivos erros no decorrer da decodificação. 
+Mensagens de erros ecnontradas ao longo da programação:
+
+- Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object
+
+- services/PesquisaServiceDB.js (0:1)
+Failed to execute 'openDatabase' on 'Window': Access to the WebDatabase API is denied in third party contexts
+
+- Failed to execute 'openDatabase' on 'Window': Access to the WebDatabase API is denied in third party contexts.
+  Evaluating services/PesquisaServiceDB.js
+  Evaluating App.js
+  Loading App.js
+  
+ Ao finalizar a programação do CRUD, a mensagem final de erro encontrada diz: "Nothing was returned from render. This usually means a return statement is missing. Or, to render nothing, return null" conforme demonstrado também na figura abaixo (figura 01).
 
 ![image](https://user-images.githubusercontent.com/81448442/172025540-f3231b36-2788-4868-a6e2-444e3d6f23b9.png)
  
