@@ -12,5 +12,4 @@ https://www.youtube.com/watch?v=329FhVNj-B8
 
 ## Título do Projeto
 
-Nome e marca do projeto
-
+Metrip 
